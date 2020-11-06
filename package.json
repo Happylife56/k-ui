@@ -16,27 +16,30 @@
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
+    "@vue/eslint-config-airbnb": "^5.1.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
+    "eslint": "7.12.1",
     "eslint-plugin-vue": "^7.0.0-0"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/vue3-essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
-    "rules": {}
   },
   "browserslist": [
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` yarn install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happylife56/k-ui.git"
+  },
+  "keywords": [
+    "vue3-ui",
+    "vue3.0"
+  ],
+  "author": "wenxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Happylife56/k-ui/issues"
+  },
+  "homepage": "https://github.com/Happylife56/k-ui#readme"
 }
