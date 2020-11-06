@@ -30,7 +30,7 @@
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Happylife56/k-ui.git"
+    "url": "https://github.com/Happylife56/k-ui.git"
   },
   "keywords": [
     "vue3-ui",
